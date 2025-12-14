@@ -7,3 +7,5 @@ SMPL for Blender <br>
 https://download.is.tue.mpg.de/download.php?domain=smpl&sfile=smpl_blender_addon_20210611.zip <br>
 のアーマチュアを想定 <br>
 Blender 4.5.5で動作確認
+
+Source: [ComfyUI-MotionCapture](https://github.com/PozzettiAndrea/ComfyUI-MotionCapture)
